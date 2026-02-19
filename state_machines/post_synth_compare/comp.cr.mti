@@ -1,0 +1,24 @@
+{C:/Users/Asus/Desktop/university/term 3/logic circuit/CA/CA5/P3/moore10110.vo} {1 {vlog -work work -stats=none {C:/Users/Asus/Desktop/university/term 3/logic circuit/CA/CA5/P3/moore10110.vo}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module moore10110_post
+-- Compiling module hard_block
+
+Top level modules:
+	moore10110_post
+
+} {} {}} {C:/Users/Asus/Desktop/university/term 3/logic circuit/CA/CA5/P3/3TB.v} {1 {vlog -work work -stats=none {C:/Users/Asus/Desktop/university/term 3/logic circuit/CA/CA5/P3/3TB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module compare_TB
+
+Top level modules:
+	compare_TB
+
+} {} {}} {C:/Users/Asus/Desktop/university/term 3/logic circuit/CA/CA5/P3/mealy10110.vo} {1 {vlog -work work -stats=none {C:/Users/Asus/Desktop/university/term 3/logic circuit/CA/CA5/P3/mealy10110.vo}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mealy10110_post
+-- Compiling module hard_block
+
+Top level modules:
+	mealy10110_post
+
+} {} {}}
